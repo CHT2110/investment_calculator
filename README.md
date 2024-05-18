@@ -1,8 +1,6 @@
 # investment_calculator
 A small Python application that calculates the return on investment you'll get based on your estimations.
 
-#h3 
-
 When running the Script in the command line it takes 4 arguments you need to give it:
 
 -b your current starting balance.
